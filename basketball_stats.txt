@@ -1,0 +1,14 @@
+matchup                                     result                winner high           loser high                                  
+Cleveland CLE         Atlanta ATL           Postponed                                                                               
+Chicago CHI           Boston BOS            Postponed                                                                               
+Milwaukee MIL         Brooklyn BKN          Postponed                                                                               
+Toronto TOR           Orlando ORL           Postponed                                                                               
+Charlotte CHA         Philadelphia PHI      Postponed                                                                               
+Indiana IND           Washington WSH        Postponed                                                                               
+Oklahoma City OKC     Dallas DAL            Postponed                                                                               
+Memphis MEM           Houston HOU           Postponed                                                                               
+New York NY           Minnesota MIN         Postponed                                                                               
+New Orleans NO        San Antonio SA        Postponed                                                                               
+Los Angeles LAL       Phoenix PHX           Postponed                                                                               
+LA LAC                Portland POR          Postponed                                                                               
+Golden State GS       Sacramento SAC        Postponed                                                                               
